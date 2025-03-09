@@ -3,7 +3,7 @@ import React from "react";
 
 export default function FeaturesSection() {
   return (
-    <Stack spacing={8}>
+    <Stack spacing={8} padding={"60px 0px"}>
       <Stack
         direction={"row"}
         justifyContent={"center"}
